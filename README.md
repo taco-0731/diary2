@@ -3,7 +3,7 @@
 
 ## 功能介紹
 - **兩大系別**  
-  - MonsterFire、MonsterElect
+  - `MonsterFire`、`MonsterFire`
 - **進化**  
   - 進化後攻防補與 HP變2倍
 - **回合制**  
@@ -22,7 +22,7 @@
   - `MonsterFire`：有隨機傷害；對手防守時，傷害再減少
   - `MonsterElect`：使用基礎的攻擊
 - **防守：**
-  - MonsterElect的defense()有1.5倍防禦力加成
+  - `MonsterElect`的defense()有1.5倍防禦力加成
 - **補血：** 
   - 當回合選擇補血時，回合末會以 healingPower值回復HP
 - **進化：** 
